@@ -1,0 +1,55 @@
+{
+  "FilePath": "/Users/jakeash/Desktop/ToDoListDatabase/ToDoList.Solution/ToDoList/ToDoList.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": "ToDoList",
+  "Documents": [
+    {
+      "FilePath": "/Users/jakeash/Desktop/ToDoListDatabase/ToDoList.Solution/ToDoList/Views/Categories/New.cshtml",
+      "TargetPath": "Views/Categories/New.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/jakeash/Desktop/ToDoListDatabase/ToDoList.Solution/ToDoList/Views/Home/Index.cshtml",
+      "TargetPath": "Views/Home/Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/jakeash/Desktop/ToDoListDatabase/ToDoList.Solution/ToDoList/Views/Items/New.cshtml",
+      "TargetPath": "Views/Items/New.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/jakeash/Desktop/ToDoListDatabase/ToDoList.Solution/ToDoList/Views/Home/Show.cshtml",
+      "TargetPath": "Views/Home/Show.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/jakeash/Desktop/ToDoListDatabase/ToDoList.Solution/ToDoList/Views/Items/Index.cshtml",
+      "TargetPath": "Views/Items/Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/jakeash/Desktop/ToDoListDatabase/ToDoList.Solution/ToDoList/Views/Categories/Index.cshtml",
+      "TargetPath": "Views/Categories/Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/jakeash/Desktop/ToDoListDatabase/ToDoList.Solution/ToDoList/Views/Categories/Show.cshtml",
+      "TargetPath": "Views/Categories/Show.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}

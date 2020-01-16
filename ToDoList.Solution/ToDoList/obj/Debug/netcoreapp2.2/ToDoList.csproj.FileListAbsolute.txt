@@ -74,3 +74,11 @@
 /Users/Guest/Desktop/To-Do-List-MVC/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.dll
 /Users/Guest/Desktop/To-Do-List-MVC/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.pdb
 /Users/Guest/Desktop/To-Do-List-MVC/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.csproj.CopyComplete
+/Users/jakeash/Desktop/ToDoListDatabase/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.csprojAssemblyReference.cache
+/Users/jakeash/Desktop/ToDoListDatabase/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.csproj.CoreCompileInputs.cache
+/Users/jakeash/Desktop/ToDoListDatabase/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.RazorAssemblyInfo.cache
+/Users/jakeash/Desktop/ToDoListDatabase/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.RazorAssemblyInfo.cs
+/Users/jakeash/Desktop/ToDoListDatabase/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.AssemblyInfoInputs.cache
+/Users/jakeash/Desktop/ToDoListDatabase/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.AssemblyInfo.cs
+/Users/jakeash/Desktop/ToDoListDatabase/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.dll
+/Users/jakeash/Desktop/ToDoListDatabase/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.pdb
