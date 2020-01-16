@@ -2961,8 +2961,8 @@
   "RootNamespace": "ToDoList",
   "Documents": [
     {
-      "FilePath": "/Users/jakeash/Desktop/ToDoListDatabase/ToDoList.Solution/ToDoList/Views/Categories/New.cshtml",
-      "TargetPath": "Views/Categories/New.cshtml",
+      "FilePath": "/Users/jakeash/Desktop/ToDoListDatabase/ToDoList.Solution/ToDoList/Views/Categories/Create.cshtml",
+      "TargetPath": "Views/Categories/Create.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -2971,13 +2971,13 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/jakeash/Desktop/ToDoListDatabase/ToDoList.Solution/ToDoList/Views/Items/Delete.cshtml",
-      "TargetPath": "Views/Items/Delete.cshtml",
+      "FilePath": "/Users/jakeash/Desktop/ToDoListDatabase/ToDoList.Solution/ToDoList/Views/Shared/_Layout.cshtml",
+      "TargetPath": "Views/Shared/_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/jakeash/Desktop/ToDoListDatabase/ToDoList.Solution/ToDoList/Views/Items/New.cshtml",
-      "TargetPath": "Views/Items/New.cshtml",
+      "FilePath": "/Users/jakeash/Desktop/ToDoListDatabase/ToDoList.Solution/ToDoList/Views/Items/Delete.cshtml",
+      "TargetPath": "Views/Items/Delete.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -2986,8 +2986,13 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/jakeash/Desktop/ToDoListDatabase/ToDoList.Solution/ToDoList/Views/Home/Show.cshtml",
-      "TargetPath": "Views/Home/Show.cshtml",
+      "FilePath": "/Users/jakeash/Desktop/ToDoListDatabase/ToDoList.Solution/ToDoList/Views/Categories/Edit.cshtml",
+      "TargetPath": "Views/Categories/Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/jakeash/Desktop/ToDoListDatabase/ToDoList.Solution/ToDoList/Views/Categories/Delete.cshtml",
+      "TargetPath": "Views/Categories/Delete.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -3011,8 +3016,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/jakeash/Desktop/ToDoListDatabase/ToDoList.Solution/ToDoList/Views/Categories/Show.cshtml",
-      "TargetPath": "Views/Categories/Show.cshtml",
+      "FilePath": "/Users/jakeash/Desktop/ToDoListDatabase/ToDoList.Solution/ToDoList/Views/Categories/Details.cshtml",
+      "TargetPath": "Views/Categories/Details.cshtml",
       "FileKind": "mvc"
     }
   ],
