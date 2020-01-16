@@ -21,7 +21,6 @@ namespace ToDoList.Controllers
         var thisItem = db.Items.FirstOrDefault(items => items.ItemId == id);
         ViewBag.CategoryId = new SelectList(db.Categories, "CategoryId", "Name");
         return View(thisItem);
-}
     }
 
     [HttpPost]
@@ -51,12 +50,6 @@ namespace ToDoList.Controllers
     {
         List<Item> model = _db.Items.Include(items => items.Category).ToList();
         return View(model);
-    }
-
-    public ActionResult Index()
-    {
-      List<Item> model = _db.Items.ToList();
-      return View(model);
     }
 
     public ActionResult Create()
